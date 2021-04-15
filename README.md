@@ -11,7 +11,10 @@ Install the module by running the given command in your cmd.
 pip install instaloader
 ```
 
--  Run the program 
+-  Run the program app.py
 - Input the username
 - File will be downloaded in your default App location.
 
+
+
+![image](ss.JPG)
