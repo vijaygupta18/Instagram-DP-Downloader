@@ -5,6 +5,8 @@
 
 ### Requirements:
 
+Install the module by running the given command in your cmd.
+
 ```
 pip install instaloader
 ```
