@@ -16,5 +16,18 @@ pip install instaloader
 - File will be downloaded in your default App location.
 
 
+-Enter Username
 
 ![image](ss.JPG)
+
+
+- Click Download Button
+
+![image](ss1.JPG)
+
+- Check The app loaction a Folder with given userid will be created.
+
+
+![image](ss3.JPG)
+
+
